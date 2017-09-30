@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Registro</title>
+    </head>
+    <!---- Estilos de esta pagina --->
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <body>
+        <header>
+
+		</header>
+	<nav>
+		<ul>
+			<li>Bienvenido</li>
+			<li><a href="ayuda.php"> Ayuda</a> </li>
+		</ul>
+	</nav>
+        <section id="section1">
+          <form onsubmit="validaForm()" method="get" action="conexion.php" >
+            <p><u> Registrarse</u> </p>
+            Correo: <br>
+            <input type="text" id="correo" name="correo" /> <br>
+            <br>
+            Clave: <br>
+            <input type="password" id="clave" name="clave" /><br>
+            <input type="submit" name="enviar" /> 
+            </form>
+        </section>
+        
+        <script type="text/javascript" src="js/java.js"></script>
+    </body>
+</html>
