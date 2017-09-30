@@ -1,0 +1,53 @@
+notas recordatorio Faedo
+-------------------------------
+Base de datos de prueba:
+
+Desarrollo Web
+base foro
+----------------------------------
+Proyecto
+base foro2
+---------------------------------
+estado de la base: funcionando 
+--------------------------------
+Corregir:
+-no cerrado de sesion 
+-campos nulos
+-mejorar diseño
+-en Dw Agregar tablas nuevas
+-PI agregar las tablas totales  
+------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------
+esta nota tiene como motivo evitar problemas por usar bases similares en Dw y PI.
+
+by: Fernando Aedo
+
+
